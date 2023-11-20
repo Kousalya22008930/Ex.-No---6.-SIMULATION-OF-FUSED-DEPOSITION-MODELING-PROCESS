@@ -14,16 +14,13 @@
 ### STEP 4: Click on 'Filament' then filament will be added.
 ### STEP 5: Click on 'Start Process' to begin the process.
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
-
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
-
 ## Output:
-
-### Name:
-### Register Number:
+### Name: KOUSALYA A.
+### Register Number: 212222230068
+![image](https://github.com/Kousalya22008930/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119389108/4b34d3f6-b6d0-458e-a3f4-6e2f5a7d7943)
+![image](https://github.com/Kousalya22008930/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119389108/c278ef10-92df-4d27-a075-109a902cb355)
+![image](https://github.com/Kousalya22008930/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119389108/ddd5481e-acc7-43fb-923a-d1767578d6c2)
+![image](https://github.com/Kousalya22008930/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119389108/d614de3e-c8a3-4bf4-be8f-7030f600c60e)
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
